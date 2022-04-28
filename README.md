@@ -1,7 +1,7 @@
 # OpenAPISwaggerSample
 This is a sample of how to use Swagger in a project
 
-Run on console it with:
+Run it on console with:
 
  `mvn jetty:run`
  
