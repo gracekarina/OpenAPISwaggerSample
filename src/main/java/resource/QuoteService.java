@@ -45,7 +45,7 @@ public class QuoteService {
 
     @GET
     @Path("/{quoteId}")
-    @Operation(summary = "Find pet by ID",
+    @Operation(summary = "Find quote by ID",
             tags = {"quotes?"},
             description = "Returns a quote when 0 < ID <= 10.  ID > 10 or nonintegers will simulate API error conditions",
             responses = {
